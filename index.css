@@ -1,0 +1,116 @@
+html{
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    background-color: rgb(49, 49, 49);
+    
+}
+
+.názov{
+    color: black;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(84, 84, 255);
+    border-radius: 20px;
+    flex-wrap: wrap;
+    display: flex;
+    
+}
+.názov2{
+    color: black;
+    text-align: center;
+    justify-content: center;
+    color: white;
+    background-color: rgb(84, 84, 255);
+    border-radius: 20px;
+    flex-wrap: wrap;
+    display: flex;
+    padding-left: 16px; 
+}
+.výber{
+   color: white;
+   background-color: rgb(84, 84, 255);
+   margin-top: 100px;
+   margin-left: 20%;
+   text-align: center;
+   font-size: 30px;
+   padding: 70px;
+   border-radius: 50px;
+   margin-right: 20%;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+.výber:hover{
+    background-color: rgb(136, 136, 255);
+    
+}
+.podnázov{
+    color: white;
+    margin-left: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 35px;
+    background-color: rgb(84, 84, 255);
+    margin-right: 30px;
+    border-radius: 10px;
+    padding-left: 10px;    
+}
+.podpodnázov{
+    color: white;
+    font-size: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 30px;
+    background-color: rgb(84, 84, 255);
+    margin-right: 30px;
+    border-radius: 10px;
+    padding-left: 10px;   
+    margin-bottom: 20px; 
+    font-size: 30px;
+}
+.textik{
+    color: white;
+    margin-left: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 25px;
+    margin-right: 0%;
+    background-color: rgb(85, 85, 85);
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-bottom: 320px;
+    margin-right: 30px;
+
+}
+.tretinazov{
+    color: white;
+    margin-left: 30px;
+    font-size: 25px;
+    background-color: rgb(84, 84, 255);
+    margin-right: 0%;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    margin-right: 30px;
+    font-size: 30px;
+
+}
+.psvita1{
+    margin-left: 0%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -300px;
+    justify-content: center;
+    margin-left: 3%;
+}
+.hack{
+    margin-left: 0%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: -300px;
+    justify-content: center;
+    margin-left: 1%;
+}
